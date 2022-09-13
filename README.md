@@ -2,6 +2,8 @@
 
 This **Lottery Dapp** is an implementation of basic lottery application where each individual can buy certain number of tickets, while the total amount of tickets purchased accumulate as the total prize pool for that time period
 
+Hosted on Spheron - [Lottery DAPP](http://lottery-dapp-l92moj.spheron.app/)
+
 ---
 
 ### 📹 Preview
@@ -12,10 +14,11 @@ This **Lottery Dapp** is an implementation of basic lottery application where ea
 
 ### 🛠 Tech Stack
 * [Next.js](https://nextjs.org/) - Frontend Framework
-* [thirdweb](https://thirdweb.com/) - Web3 Platform (@thirdweb/react & @thirdweb/sdk)
+* [thirdweb](https://thirdweb.com/) - Web3 Platform (`@thirdweb/react` & `@thirdweb/sdk`)
 * [Tailwind CSS](https://tailwindcss.com/) - CSS Utility Framework
 
 ### 📐 Local Setup and Usage
+* Make sure you have [*Metamask*](https://metamask.io/) installed as the extension in your browser 
 * Clone the repository
 * Install the required dependencies by using the following command in the project directory using your terminal
 ```bash
@@ -30,5 +33,4 @@ The above contract address is of the Smart Contract version (*`contract/Lottery.
 ```bash
 $ npm run dev
 ```
-
 
